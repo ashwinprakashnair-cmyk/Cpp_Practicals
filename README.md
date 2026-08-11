@@ -1,5 +1,6 @@
-# Cpp_Practicals
+# Cpp_Practical
 All college practicals, uploaded here
 
-## DS Practicals
-1. 
+## DS Practical
+1. Student Information System
+2. Student Attendance Record System
